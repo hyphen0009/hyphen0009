@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **zaid.imam.951@gmail.com** For Collaboration/Project or An
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hyphen0009&theme=aura&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=hyphen&theme=aura&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Zaid.009) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the.zaix) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-zaid-5655b4271) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/U/zaid_951) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Couturify2.0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaid.imam.951@gmail.com) 
